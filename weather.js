@@ -1,5 +1,5 @@
 const key = 'b84309687a14433fa40115400230209';
-const url = `http://api.weatherapi.com/v1/forecast.json?key=${key}&q=London&days=1&aqi=no&alerts=no`;
+const url = `https://api.weatherapi.com/v1/forecast.json?key=${key}&q=London&days=1&aqi=no&alerts=no`;
 
 
 const header = document.querySelector('.header');
